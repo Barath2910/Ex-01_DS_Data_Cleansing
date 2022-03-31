@@ -46,3 +46,5 @@ df.to_csv('Data_set.csv', index=False)
 # OUPUT
 ![output](1.JPG)
 ![output](2.JPG)
+# RESULT
+Thus the given data is cleansed and the output is obtained.
